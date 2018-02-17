@@ -9,6 +9,7 @@ This is an experimental js project to build a single page app using a component 
 - reactide (ide)
 *considerations*
 - https://github.com/regl-project/regl
+- https://cocoon.io/
 
 ### Reference material
 - https://gist.github.com/dmnsgn/76878ba6903cf15789b712464875cfdc
