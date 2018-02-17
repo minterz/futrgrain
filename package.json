@@ -1,0 +1,19 @@
+{
+  "name": "futrgrain",
+  "version": "1.0.0",
+  "description": "This is an experimental js project to build a single page app using a component library built only with webgl and threejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minterz/futrgrain.git"
+  },
+  "author": "louis page",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minterz/futrgrain/issues"
+  },
+  "homepage": "https://github.com/minterz/futrgrain#readme"
+}
