@@ -64,6 +64,7 @@
     "glsl-noise": "0.0.0",
     "glslify-fancy-imports": "^1.0.1",
     "glslify-hex": "^2.0.1",
+    "pixi.js": "^4.7.0",
     "three": "^0.89.0",
     "webvr-polyfill": "^0.10.2",
     "webvr-ui": "^0.10.0"
