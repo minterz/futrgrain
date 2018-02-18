@@ -2,6 +2,7 @@
 
 ## Description
 This is an experimental js project to build a single page app using a component library built only with webgl and threejs
+https://github.com/paulmg/ThreeJS-Webpack-ES6-Boilerplate
 
 ## Frameworks
 - threejs
