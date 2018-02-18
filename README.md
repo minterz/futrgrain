@@ -6,7 +6,6 @@ This is an experimental js project to build a single page app using a component 
 ## Frameworks
 - threejs
 - npm
-- reactide (ide)
 *considerations*
 - https://github.com/regl-project/regl
 - https://cocoon.io/
